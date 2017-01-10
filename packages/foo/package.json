@@ -1,0 +1,8 @@
+{
+  "name": "foo",
+  "scripts": {
+    "posttest": "echo foo:posttest",
+    "pretest": "echo foo:pretest",
+    "test": "echo foo:test"
+  }
+}

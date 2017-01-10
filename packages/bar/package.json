@@ -1,0 +1,7 @@
+{
+  "name": "bar",
+  "scripts": {
+    "posttest": "echo bar:posttest",
+    "pretest": "echo bar:pretest"
+  }
+}
